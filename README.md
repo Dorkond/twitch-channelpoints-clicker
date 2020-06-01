@@ -6,3 +6,4 @@ Depends on [opencv](https://pypi.org/project/opencv-python/), which need to be l
 ## Todo list  
 - [x] initial commit  
 - [ ] add click to twitch favicon before checking every 2 minutes (for better background work)  
+- [ ] add output log analyzer (with linear regression using matplotlib)
