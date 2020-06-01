@@ -1,6 +1,6 @@
 # twitch-channelpoints_clicker
 Works using [PyAutoGui](https://pyautogui.readthedocs.io/en/latest/index.html).
-Depends on [opencv](https://pypi.org/project/opencv-python/), which need to be linked to the project for proper confidence realisation.
+Depends on [opencv](https://pypi.org/project/opencv-python/), which need to be linked to the project for proper image confidence realisation.
 
 
 ## Todo list  
